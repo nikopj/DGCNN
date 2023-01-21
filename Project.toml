@@ -1,0 +1,13 @@
+name = "DGCNN"
+uuid = "998ea9cc-66d8-4fcb-aeb7-3b2823b1cbcd"
+authors = ["Nikola Janjusevic <nikopjj@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Flux3D = "432009dd-59a1-4b72-8c93-6462ce9b220f"
+GraphNeuralNetworks = "cffab07f-9bc2-4db1-8861-388f63bf7694"
+MLDatasets = "eb30cadb-4394-5ae3-aed4-317e484a6458"
+MLUtils = "f1d291b0-491e-4a28-83b9-f70985020b54"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+ProgressLogging = "33c8b6b6-d38a-422a-b730-caa89a2f386c"
+WGLMakie = "276b4fcb-3e11-5398-bf8b-a0c2d153d008"
